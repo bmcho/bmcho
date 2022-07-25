@@ -15,7 +15,10 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-4298B8?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
- 
+  <img src="https://img.shields.io/badge/Django-Rest-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray"/></a>&nbsp
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
+  
 </p>
 
 <br>
