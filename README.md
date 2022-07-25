@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&desc=byeongming`s%20github&fontSize=90&descAlign=70&descAlignY=70&fontColor=363636)
 
 <!--
 **bmcho/bmcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
