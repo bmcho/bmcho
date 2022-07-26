@@ -2,6 +2,7 @@
 
 <p align="center">
 <Strong>📧Email📧</Strong><br>bmcho91@naver.com<br>
+<String><a href="https://miniature-fine-7ce.notion.site/783c096470b04da68a9395f092f4b697">📖Notion📖</a></Strong> 
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
