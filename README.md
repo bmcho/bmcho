@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&desc=byeongming`s%20github&fontSize=90&descAlign=70&descAlignY=70&fontColor=363636)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&desc=byeongmin`s%20github&fontSize=90&descAlign=70&descAlignY=70&fontColor=363636)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
