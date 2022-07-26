@@ -1,11 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&desc=byeongmin`s%20github&fontSize=90&descAlign=70&descAlignY=70&fontColor=363636)
 
+<p align="center">
+<Strong>📧Email📧</Strong><br>bmcho91@naver.com<br>
+</p>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> 
 Techs that I've used at least once 
 <br>
-<Strong>📧Email📧</Strong><br>bmcho91@naver.com<br>
 </p>
 
 <p align="center">
